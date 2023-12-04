@@ -1,23 +1,6 @@
 function FooterComponent() {
 
-    const footerData = [
-        {
-            name:"Abstract",
-            link1:"Branches",
-        },
-        {
-            name:"Resources",
-            link1:"Blog",
-        },
-        {
-            name:"Community",
-            link1:"Twiiter",
-        },
-        {
-            name:"Company",
-            link1:"About ",
-        }
-    ]
+   
     return ( 
         <>
         <div className="container py-36">
